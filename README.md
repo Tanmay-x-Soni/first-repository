@@ -3,4 +3,4 @@ Simple hello world code as first repository.
 <br>
     By Tanmay.
 
-    cout<<"Hello world!!"<<endl;
+    printf("Helloworld!!");
